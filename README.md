@@ -10,11 +10,11 @@ UPDATE 2
 
 I have finished mostly all of it now
 Files:
-Program.cs
-Player.cs
-Character.cs
-Enemy.cs
-Spell.cs
+Program.cs (Main program file with the ui setup, pathway and more)
+Player.cs (Main system for the player and helps to register if gold is taken to buy items, dmg taken, spells used ect)
+Character.cs (Helps with basics like take dmg for player, if mana and alive)
+Enemy.cs (Helps with making enemy's and letting them attack)
+Spell.cs (Helps with storing and casting spells)
 
 It has an adventurer type of game where you fight enemy's and can gain spells with a chance, go to shop to upgrade, go to dungeon cave to fight enemy's and if you beat all 3 you get a overpowered spell to use
 
